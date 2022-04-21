@@ -1,0 +1,10 @@
+.bg-cover {
+    background-size: cover !important;}
+.normal { color: rgb(255, 255, 255);
+font-family: Georgia; 
+}
+.carousel-item{ 
+    height: 25rem;
+position: relative;
+}
+
